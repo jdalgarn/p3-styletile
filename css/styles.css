@@ -1,0 +1,11 @@
+/* Your Website Styles */
+h3, h4, h5{
+
+font-family: 'Gafata' , sans-serif;
+
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
